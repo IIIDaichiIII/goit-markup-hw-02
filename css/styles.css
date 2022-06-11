@@ -1,0 +1,47 @@
+:root {
+    /* Fonts */
+    --main-font-family: 'Roboto', 'Raleway';
+
+    /* Colors */
+    --main-dark-color: #212121;
+    --main-light-color: #FFFFFF;
+    --current-color: #2196F3;
+    --main-color: #757575;
+    --secondary-color: 
+}
+    
+body {
+    font-family: var(--main-font-family);
+}
+
+
+/* .web-studio-nav {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        color: #212121;
+        text-decoration: none;
+}
+.web {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: 25px 0px 25px 215px;
+}
+.web-studio {
+        color: #2196F3;
+}
+.navigate {
+    text-align:center;
+    box-sizing: border-box;
+} */
+
+
